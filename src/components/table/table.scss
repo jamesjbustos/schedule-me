@@ -1,0 +1,28 @@
+.table {
+  border-radius: 15px;
+  overflow: hidden; // Ensures the table doesn't overflow the rounded borders.
+
+  .tableCell {
+    padding: 16px;
+  }
+
+  .status {
+    padding: 5px;
+    border-radius: 5px;
+
+    &.Not\ Started {
+      color: goldenrod;
+      background-color: rgba(189, 189, 3, 0.103);
+    }
+
+    &.In\ Progress {
+      color: orange;
+      background-color: rgba(255, 165, 0, 0.103);
+    }
+
+    &.Completed {
+      color: green;
+      background-color: rgba(0, 128, 0, 0.151);
+    }
+  }
+}

@@ -1,0 +1,45 @@
+.timetable {
+  height: 60px;
+  padding: 50px;
+  margin-left: 0px;
+}
+:root {
+  --fc-small-font-size: 0.85em;
+  --fc-page-bg-color: #f8f9fa;
+  --fc-neutral-bg-color: #c0d6df;
+  --fc-neutral-text-color: #4a4a4a;
+  --fc-border-color: #ddd;
+
+  --fc-button-text-color: #fff;
+  --fc-button-bg-color: #4fa2d9;
+  --fc-button-border-color: #ddd;
+  --fc-button-hover-bg-color: #3e97cb; /* Slightly darker than main color for hover */
+  --fc-button-hover-border-color: #ddd;
+  --fc-button-active-bg-color: #2e759b; /* More natural shade for active state */
+  --fc-button-active-border-color: #ddd;
+
+  --fc-event-bg-color: #4fa2d9;
+  --fc-event-border-color: #ddd;
+  --fc-event-text-color: #fff;
+  --fc-event-selected-overlay-color: rgba(0, 0, 0, 0.25);
+
+  --fc-more-link-bg-color: #c0d6df;
+  --fc-more-link-text-color: inherit;
+
+  --fc-event-resizer-thickness: 8px;
+  --fc-event-resizer-dot-total-width: 8px;
+  --fc-event-resizer-dot-border-width: 1px;
+
+  --fc-non-business-color: rgba(215, 215, 215, 0.3);
+  --fc-bg-event-color: #4fa2d9;
+  --fc-bg-event-opacity: 0.3;
+  --fc-highlight-color: #82c0d3;
+  --fc-today-bg-color: rgba(255, 220, 40, 0.15);
+  --fc-now-indicator-color: red;
+}
+
+.fc .fc-toolbar-title {
+  font-size: 1.75em;
+  margin: 0px;
+  font-family: "Nunito", sans-serif;
+}
