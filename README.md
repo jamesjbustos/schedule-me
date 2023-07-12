@@ -2,6 +2,11 @@
 
 ![ScheduleMe - Demo](https://github.com/jamesjbustos/schedule-me/assets/45052719/4d690456-e554-45e0-964e-cda7453b18c9)
 
+[Live demo](https://scheduleme.jamesjbustos.com/)
+
+Login: admin@test.dev
+Password: 12345678
+
 ScheduleMe is a browser-based application designed to simplify scheduling for students and help them manage their time effectively. It provides an intuitive event system, AI-powered recommendations, and features for sharing calendars and collaborating with others.
 
 ## Installation
