@@ -1,6 +1,6 @@
 # ScheduleMe
 
-![ScheduleMe - Demo](https://github.com/jamesjbustos/schedule-me/assets/45052719/4d690456-e554-45e0-964e-cda7453b18c9)
+https://github.com/jamesjbustos/schedule-me/assets/45052719/72e1ba54-f0d6-4f77-a0ff-6564fa08ff28
 
 [Live demo](https://scheduleme.jamesjbustos.com/)
 
